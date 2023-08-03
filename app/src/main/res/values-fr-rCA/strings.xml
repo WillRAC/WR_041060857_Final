@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Projet final WR</string>
+    <string name="user_name">Nom</string>
+    <string name="password">Mot de passe</string>
+    <string name="header">Projet final WR</string>
+    <string name="activity_title_article_list">Des articles</string>
+    <string name="activity_title_article_detail">Détail de larticle</string>
+    <string name="activity_about_me">Sur moi</string>
+    <string name="enter">Entrer</string>
+    <string name="header2">Bienvenue sur mon application dactualités !</string>
+    <string name="SearchButton">Recherche</string>
+    <string name="SearchHint">Entrez le texte ici</string>
+    <string name="Title">Titre:</string>
+    <string name="URL">URL:</string>
+    <string name="Section">Section:</string>
+    <string name="about_me">Ceci est ma soumission pour mon projet final pour la programmation graphique mobile. William Rich 041060857.</string>
+</resources>

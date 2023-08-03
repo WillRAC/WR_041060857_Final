@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Final Project WR</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="header">WR Final Project</string>
+    <string name="activity_title_article_list">Articles</string>
+    <string name="activity_title_article_detail">Article Detail</string>
+    <string name="activity_about_me">About Me</string>
+    <string name="enter">Enter</string>
+    <string name="header2">Welcome to my news app!</string>
+    <string name="SearchButton">Search</string>
+    <string name="SearchHint">Enter Text Here</string>
+    <string name="Title">Title:</string>
+    <string name="URL">URL:</string>
+    <string name="Section">Section:</string>
+    <string name="about_me">This is my submission for my final project for Mobile Graphical Programming. William Rich 041060857.</string>
+
+    <string name="drawer_article_list">Articles</string>
+    <string name="drawer_about_me">About Me</string>
+    <string name="drawer_logout">Log-out</string>
+    <string name="imgv_drawer_header">Image on our drawer</string>
+    <string name="drawer_open">Drawer is open</string>
+    <string name="drawer_close">Drawer is closed</string>
+    <string name="buttonFavourite">Favourite</string>
+    <string name="mnuHelp">Help</string>
+</resources>
